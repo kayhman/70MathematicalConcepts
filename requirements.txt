@@ -12,19 +12,10 @@ jupyterlite-javascript-kernel==0.1.0b21
 jupyterlab-language-pack-fr-FR
 jupyterlab-language-pack-zh-CN
 
-# SQLite kernel (optional)
-jupyterlite-xeus-sqlite==0.2.1
-# P5 kernel (optional)
-jupyterlite-p5-kernel==0.1.0
-# Lua kernel (optional)
-jupyterlite-xeus-lua==0.3.1
-
 # JupyterLab: Fasta file renderer (optional)
 jupyterlab-fasta>=3,<4
 # JupyterLab: Geojson file renderer (optional)
 jupyterlab-geojson>=3,<4
-# JupyterLab: guided tour (optional)
-jupyterlab-tour
 # JupyterLab: dark theme
 jupyterlab-night
 # JupyterLab: Miami nights theme (optional)
