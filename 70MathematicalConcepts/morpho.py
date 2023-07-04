@@ -1,1 +1,0 @@
-Sorry, I cannot translate the file without seeing the original code. Please provide the file for me to translate.
